@@ -1,0 +1,29 @@
+[33mcommit 42b25933307aad7a4f69722ade7db1c58518d1a5[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: maple-syrupove <1317990128@qq.com>
+Date:   Mon Nov 4 18:37:08 2024 +0800
+
+    json
+
+[33mcommit df293ee403eb681bd8f442773fca38f1150595c2[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: maple-syrupove <1317990128@qq.com>
+Date:   Wed Oct 23 18:05:26 2024 +0800
+
+    remove
+
+[33mcommit 4efd70ce71991e7f7c4aa7a9562b40adedb3dc4d[m
+Author: Algoroxyolo <yunzex@andrew.cmu.edu>
+Date:   Wed Oct 23 11:20:28 2024 +0300
+
+    Updated crawl.py to collect comments instead of tweets
+
+[33mcommit f0cac701e9ec5371224120e19e1513c1d938922e[m
+Author: Algoroxyolo <yunzex@andrew.cmu.edu>
+Date:   Sat Sep 28 08:39:58 2024 +0300
+
+    initial commit
+
+[33mcommit 2cbca3b704e1c1f63fb3673aace0844ee40bc6ef[m
+Author: 眼神迷离有杀气 <32791904+airaer1998@users.noreply.github.com>
+Date:   Wed Sep 25 16:36:55 2024 +0800
+
+    Initial commit
